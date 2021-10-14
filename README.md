@@ -1,19 +1,19 @@
-# POKE PAIR :performing_arts:
+# POKEMON PAIR :performing_arts:
 A simple, straightforward memory game designed to test the player's memory.
 
 ## GETTING STARTED :pencil:
 To start playing:
   - Clone the repository 
-    - Clone or download the repository 'Poke-Pair' by clicking on the Clone or Download button
+    - Clone or download the repository 'Pokemon Pair' by clicking on the Clone or Download button
     - Open the 'index.html' file and start playing!
     
     **or**
 
-  - Visit the link: https://verma-anushka.github.io/Poke-Pair/.
+  - Visit the link: [].
 
     **or**
   
-- You can also find **Poke Pair** and many more cool games at the link: https://verma-anushka.github.io/Gaming-Zone/.
+- You can also find **Poke Pair** and many more cool games at the link: [https://lavishabhambri.github.io/Gaming-Hub/].
 
 
 ## FEATURES :fire:
@@ -38,6 +38,6 @@ If you have more suggestions or you wish to add more features, just open a pull 
 
 
 ## Game Snapshots :camera:
-![Poke Pair](img/pokePair1.PNG)
+![Pokemon Pair](img/pokePair1.PNG)
 
-![Poke Pair](img/pokePair2.PNG)
+![Pokemon Pair](img/pokePair2.PNG)
