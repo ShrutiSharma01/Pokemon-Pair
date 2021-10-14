@@ -9,7 +9,7 @@ To start playing:
     
     **or**
 
-  - Visit the link: [].
+  - Visit the link: [https://pokemon-pair.netlify.app/].
 
     **or**
   
